@@ -27,5 +27,5 @@ Modern businesses face increasing cybersecurity challenges from diverse attack v
   - Imbalanced data handled using **SMOTE**, **ADASYN**, and **Tomek Links**
 
 - 🌐 Deployable UI
-  - Web interface built using Streamlit or Flask
+  - Web interface built using Streamlit
   - Simple and accessible dashboards for security monitoring
